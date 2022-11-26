@@ -20,8 +20,8 @@ Git [Сертификат](https://www.google.com/url?q=https://netology.ru/back
 
 #### Ключевые компентеции:
 
-Языки программирования: Java
-Фреймворки: JUnit, Selenium, Selenide
-Инструменты тестирования: Selenium, Postman, Apache JMeter
-Инструментарий: IntelliJ IDEA, Git, Docker, Jira, SQL
+* Языки программирования: Java
+* Фреймворки: JUnit, Selenium, Selenide
+* Инструменты тестирования: Selenium, Postman, Apache JMeter
+* Инструментарий: IntelliJ IDEA, Git, Docker, Jira, SQL
 
